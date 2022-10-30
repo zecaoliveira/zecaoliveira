@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zecaoliveira
-- 👀 I’m interested in Python, R, Cybersecurity.
+- 👀 I’m interested in Python, R, Cybersecurity and DevOps.
 - 🌱 I’m currently learning DevOps.
 - 💞️ I’m looking to collaborate on community.
 - 📫 How to reach me conectaredes@outlook.com
